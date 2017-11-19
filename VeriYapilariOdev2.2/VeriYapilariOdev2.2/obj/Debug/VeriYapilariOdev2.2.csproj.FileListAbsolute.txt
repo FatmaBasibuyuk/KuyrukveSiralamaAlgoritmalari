@@ -1,0 +1,21 @@
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\bin\Debug\VeriYapilariOdev2.2.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2._2.Form1.resources
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2._2.Properties.Resources.resources
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.csproj.GenerateResource.Cache
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\bin\Debug\VeriYapilariOdev2.2.exe
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\bin\Debug\VeriYapilariOdev2.2.pdb
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.exe
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.pdb
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\bin\Debug\VeriYapilariOdev2.2.exe.config
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.exe
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.pdb
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\bin\Debug\VeriYapilariOdev2.2.exe
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\bin\Debug\VeriYapilariOdev2.2.pdb
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.csprojResolveAssemblyReference.cache
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2._2.Properties.Resources.resources
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.csproj.GenerateResource.Cache
+C:\Users\Dark\Desktop\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2._2.CalismaZamaniKiyaslamalari.resources
+C:\Users\fatma\Desktop\NOTES\4.period\VeriYapılarıÖdeviDosyaları\VeriYapilariOdev2.2\VeriYapilariOdev2.2\bin\Debug\VeriYapilariOdev2.2.exe.config
+C:\Users\fatma\Desktop\NOTES\4.period\VeriYapılarıÖdeviDosyaları\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.exe
+C:\Users\fatma\Desktop\NOTES\4.period\VeriYapılarıÖdeviDosyaları\VeriYapilariOdev2.2\VeriYapilariOdev2.2\obj\Debug\VeriYapilariOdev2.2.pdb

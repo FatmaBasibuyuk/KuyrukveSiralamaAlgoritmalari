@@ -1,0 +1,30 @@
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.Properties.Resources.resources
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.csproj.GenerateResource.Cache
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.Form1.resources
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.exe
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.pdb
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.exe
+c:\users\dark\documents\visual studio 2013\Projects\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.pdb
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.exe.config
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.exe
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.pdb
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.exe
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.pdb
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.csprojResolveAssemblyReference.cache
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.Form1.resources
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.Properties.Resources.resources
+C:\Users\Dark\Desktop\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.csproj.GenerateResource.Cache
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.exe.config
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.exe
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.pdb
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.exe
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.pdb
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.Form1.resources
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.Properties.Resources.resources
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.csproj.GenerateResource.Cache
+C:\Users\Dark\Desktop\VeriYapilariOdev2.1\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.csprojResolveAssemblyReference.cache
+C:\Users\fatma\Desktop\NOTES\4.period\VeriYapılarıÖdeviDosyaları\VeriYapilariOdev2.1\VeriYapilariOdev2\bin\Debug\VeriYapilariOdev2.exe.config
+C:\Users\fatma\Desktop\NOTES\4.period\VeriYapılarıÖdeviDosyaları\VeriYapilariOdev2.1\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.exe
+C:\Users\fatma\Desktop\NOTES\4.period\VeriYapılarıÖdeviDosyaları\VeriYapilariOdev2.1\VeriYapilariOdev2\obj\Debug\VeriYapilariOdev2.pdb
